@@ -8,3 +8,7 @@ The raw fermentation data is cleaned and filtered using Excel's built-in Power Q
 
 Stage 2: Data Analysis and Visualization
 An Excel spreadsheet is created, and my Python code analyzes the data and plots graphs at the end of the sheet, providing clear visual insights from the processed data.
+
+The data in csv files ordered differently for each fermentor. 
+B1_CODE - For fermentor number 1
+B2_CODE - For fermentor number 2
