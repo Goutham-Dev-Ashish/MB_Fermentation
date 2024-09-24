@@ -3,7 +3,7 @@ from openpyxl import load_workbook
 from openpyxl.chart import ScatterChart, Reference, Series
 
 # Specify the path to your Excel file
-file_path = '/Users/goutham/Desktop/Mercury Bio/Fermentation Data/MB24/MB_24_Power Query/MB24 B1/MB24-B1/MB24-24-B1/MB24-24-B1-PLOTTED.xlsx'
+file_path = 'Plug in your file path'
 
 # Load the workbook and select the active sheet
 workbook = load_workbook(file_path)
